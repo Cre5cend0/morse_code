@@ -16,6 +16,3 @@ with open('code.txt', 'r') as code:
     my_message = Message(morse)
 
 print(my_message.decrypt_morse())
-
-
-
