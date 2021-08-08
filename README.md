@@ -6,3 +6,8 @@ There is no distinction between upper and lower case letters. Each Morse code sy
 
 
 Morse Code timing rules · The length of a dot is 1 time unit. · A dash is 3 time units. · The space between symbols (dots and dashes) of the same letter is 1 time unit.
+
+>> For a demo of how to run the program, see test.py file. 
+-- You can Encrypt a message, Decrypt a message and also play an Encrypted message in morse format. 
+
+|| If you're unable to play the sound, run the following command in your env terminal $ pip3 install playsound
